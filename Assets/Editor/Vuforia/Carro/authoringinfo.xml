@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARInfo>
+<TargetSet version="27.0" toolVersion="10.28.4">
+<ModelTarget name="Carro" targetId="0df85753f58642ff9b0534925b4bdb64" version="14.0" toolVersion="10.28.4" bbox="-0.045703 0.009161 -0.021857 0.045704 0.051919 0.039937" previewImage="0df85753f58642ff9b0534925b4bdb64_preview.jpg"/>
+
+</TargetSet>
+
+<Assembly name="Carros_assembly" assemblyId="39d933247d594cbf8d2bb503d15dacbf">
+<Part name="Carro" translation="0 0 0" rotation="AD: 0 0 1 0"/>
+<EntryPoint name="VistaCarro" translation="0.00784029 0.027896 0.103915" rotation="AD: -0.999657 -0.0362115 1.04831 177.27" image="Carro_VistaCarro.png" trained="no">
+
+</EntryPoint>
+<EntryPoint name="VistaCostadoCarro" translation="0.0172338 0.0290351 0.0816576" rotation="AD: -0.992745 -0.121591 6.65174 179.691" image="Carro_VistaCostadoCarro.png" trained="no">
+
+</EntryPoint>
+<EntryPoint name="VistaCarroCostado2" translation="-0.0113322 0.0270543 0.106912" rotation="AD: 1 0.00500439 -0.0984647 185.791" image="Carro_VistaCarroCostado2.png" trained="no">
+
+</EntryPoint>
+
+</Assembly>
+
+</QCARInfo>

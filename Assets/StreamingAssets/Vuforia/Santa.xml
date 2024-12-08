@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARConfig>
+<Tracking>
+<ModelTarget name="Santa" motionHint="adaptive" trackingMode="scan" optimizeTrackingFor="default"/>
+
+</Tracking>
+
+<Assembly name="Santas_assembly" assemblyId="bb28fad51518496785b23b75bcc4a4b1">
+<Part name="Santa" translation="0 0 0" rotation="AD: 0 0 1 0"/>
+<EntryPoint name="GuideView_0000" translation="0.0804282 0.293181 0.829928" rotation="AD: 0.996337 0.12816 -0.908636 191.846" trained="no">
+
+</EntryPoint>
+
+</Assembly>
+
+</QCARConfig>

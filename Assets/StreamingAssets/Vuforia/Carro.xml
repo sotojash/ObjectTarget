@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARConfig>
+<Tracking>
+<ModelTarget name="Carro" motionHint="adaptive" trackingMode="scan" optimizeTrackingFor="low_feature_objects"/>
+
+</Tracking>
+
+<Assembly name="Carros_assembly" assemblyId="39d933247d594cbf8d2bb503d15dacbf">
+<Part name="Carro" translation="0 0 0" rotation="AD: 0 0 1 0"/>
+<EntryPoint name="VistaCarro" translation="0.00784029 0.027896 0.103915" rotation="AD: -0.999657 -0.0362115 1.04831 177.27" trained="no">
+
+</EntryPoint>
+<EntryPoint name="VistaCostadoCarro" translation="0.0172338 0.0290351 0.0816576" rotation="AD: -0.992745 -0.121591 6.65174 179.691" trained="no">
+
+</EntryPoint>
+<EntryPoint name="VistaCarroCostado2" translation="-0.0113322 0.0270543 0.106912" rotation="AD: 1 0.00500439 -0.0984647 185.791" trained="no">
+
+</EntryPoint>
+
+</Assembly>
+
+</QCARConfig>

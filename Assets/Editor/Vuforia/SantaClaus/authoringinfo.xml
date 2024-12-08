@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARInfo>
+<TargetSet version="27.0" toolVersion="10.28.4">
+<ModelTarget name="SantaClaus" targetId="8f2fe48b3aa34ca992e7c0e7cc078c4c" version="14.0" toolVersion="10.28.4" bbox="-0.103014 0.273912 0.002574 0.006808 0.401585 0.141589" previewImage="8f2fe48b3aa34ca992e7c0e7cc078c4c_preview.jpg"/>
+
+</TargetSet>
+
+<Assembly name="SantaClauss_assembly" assemblyId="457f2dd46ef045ea90d93a16363688c9">
+<Part name="SantaClaus" translation="0 0 0" rotation="AD: 0 0 1 0"/>
+<EntryPoint name="VistaSantaClaus" translation="-0.0406606 0.342139 0.110195" rotation="AD: 1 -0.00958409 -0.0500809 158.36" image="SantaClaus_VistaSantaClaus.png" trained="no">
+
+</EntryPoint>
+
+</Assembly>
+
+</QCARInfo>

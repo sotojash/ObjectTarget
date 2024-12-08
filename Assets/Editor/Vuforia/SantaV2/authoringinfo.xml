@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARInfo>
+<TargetSet version="27.0" toolVersion="10.28.4">
+<ModelTarget name="SantaV2" targetId="9bb22b014e0a4919a9c59d855e5d731e" version="14.0" toolVersion="10.28.4" bbox="-0.129537 0.280750 -0.014833 0.048765 0.367922 0.123669" previewImage="9bb22b014e0a4919a9c59d855e5d731e_preview.jpg"/>
+
+</TargetSet>
+
+<Assembly name="SantaV2s_assembly" assemblyId="e207b2c320f148dcbf9e3947f73ecf53">
+<Part name="SantaV2" translation="0 0 0" rotation="AD: 0 0 1 0"/>
+<EntryPoint name="vistaSantav2" translation="0.00148865 0.278164 0.361539" rotation="AD: 0.999793 0.0638592 -0.34269 199.959" image="SantaV2_vistaSantav2.png" trained="no">
+
+</EntryPoint>
+
+</Assembly>
+
+</QCARInfo>
